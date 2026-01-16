@@ -43,7 +43,7 @@ Violent Forces Radio      Bank 1 Stacja 41  https://tuneintoradio1.com:8000/stre
 Violent Forces Radio      Bank 1 Stacja 42  https://tuneintoradio1.com:8010/stream.flac
 Yes FM                    Bank 1 Stacja 43  http://live7.avf.ch:8000/yesfm_main
 
-Radio
+
 
 
 
